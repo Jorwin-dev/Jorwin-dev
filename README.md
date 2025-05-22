@@ -32,6 +32,6 @@ Led research on optimizing PLA 3D printing parameters using machine learning mod
 ## 🤝 Connect With Me
 
 - 📬 Email: [jorwinreyes@outlook.com](mailto:jorwinreyes@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/jorwinreyes](https://www.linkedin.com/in/jorwinreyes/)
+- 💼 LinkedIn: [linkedin.com/in/jorwinrobertoreyes](https://www.linkedin.com/in/jorwin-roberto-reyes-191b26257/)
 - ---
 Thank you for visiting my profile! I'm always open to collaboration, feedback, or connecting over shared interests in data, web, or machine learning projects
