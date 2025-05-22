@@ -7,28 +7,27 @@ I'm passionate about using **data science, machine learning, and full-stack deve
 
 Whether it’s building ML models to improve manufacturing, developing AI-driven bots, or designing intuitive user interfaces, I’m always focused on projects that are **practical, impactful, and user-centered**.
 
-📌 *Let's dive into some of my work below.*
 ## 🚀 Featured Projects
 
 ### 💻 Web Development & Client Work
 **[OR Landscaping and Construction Website](https://github.com/Jorwin-dev/o-r_llc)**  
-A full-stack, mobile-responsive business website built using the MERN stack. Features dynamic city listings, a rotating hero gallery, a secure contact form with Nodemailer, and backend MongoDB integration. Boosted client traffic and engagement through SEO optimization.
+A full-stack, mobile-responsive business website built using the **MERN stack**. Features dynamic city listings, a rotating hero gallery, a secure contact form with Nodemailer, and backend MongoDB integration. Boosted client traffic and engagement through SEO optimization.
 
 ### 📊 Data Analytics & Visualization
 **[Loan Portfolio Performance Dashboard](https://github.com/Jorwin-dev/loan-portfolio-dashboard)**  
-Built with SQL, Tableau, and Excel, this dashboard tracks key loan metrics (DTI, approval rates, risk levels) and supports better decision-making through interactive visualizations and automated data pipelines.
+Built with **SQL, Tableau, and Excel**, this dashboard tracks key loan metrics (DTI, approval rates, risk levels) and supports better decision-making through interactive visualizations and automated data pipelines.
 
 ### 🤖 Machine Learning & AI
 **[AI-Powered Financial Market Trading Bot](https://github.com/Jorwin-dev/ai-trade-bot)**  
-Developed an automated trading system using Python, Lumibot, and the Alpaca API. Integrated sentiment analysis to inform trading decisions and implemented robust position-sizing and risk management logic.
+Developed an automated trading system using **Python, Lumibot, and the Alpaca API**. Integrated sentiment analysis to inform trading decisions and implemented robust position-sizing and risk management logic.
 
 ### 🔗 Blockchain Systems
 **[Python-Based Blockchain Network](https://github.com/Jorwin-dev/blockchain1)**  
-Created a fully functional blockchain prototype using Python and Flask. Supports mining, consensus resolution, and transaction verification through a RESTful API and proof-of-work mechanism.
+Created a fully functional blockchain prototype using **Python and Flask**. Supports mining, consensus resolution, and transaction verification through a **RESTful API** and proof-of-work mechanism.
 
 ### 🧠 Research & Machine Learning Optimization
 **[3D Printing Optimization with AI](https://github.com/Kesline/3d-printing)**  
-Led research on optimizing PLA 3D printing parameters using machine learning models. Applied neural networks and genetic algorithms to enhance print quality, speed, and strength. Project presented at MassURC and developed as part of the Sloan-funded IDS Fellowship.
+Led research on optimizing PLA 3D printing parameters using machine learning models. Applied **neural networks and genetic algorithms** to enhance print quality, speed, and strength. Project presented at MassURC and developed as part of the **Albert Sloan Foundation-funded IDS Fellowship**.
 
 ## 🤝 Connect With Me
 
