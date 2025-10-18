@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jorwin Roberto Reyes
 
 **Data Analyst | Web Developer | Machine Learning Researcher**  
-Senior at UMass Boston | Criminal Justice & Computer Science | Class of 2025
+UMass Boston Alumni | Criminal Justice & Computer Science | Class of 2025
 
 I'm passionate about using **data science, machine learning, and full-stack development** to build real-world solutions. My work sits at the intersection of **technology, ethics, and social impact**—from optimizing 3D-printing with AI to building responsive websites and data dashboards for real clients. I thrive in interdisciplinary spaces, blending my background in **criminology** and **data ethics** with hands-on technical skills.
 
